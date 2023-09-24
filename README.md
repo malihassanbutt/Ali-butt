@@ -11,8 +11,8 @@
 
 
 
-  </div>
-## ``` SCAN QR CODE```
+  
+### ``` SCAN QR CODE```
 
 1. Scan the QR and copy it
     <br>

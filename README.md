@@ -12,7 +12,7 @@
 
 
   </div>
-### SCAN QR CODE
+## ``` SCAN QR CODE```
 
 1. Scan the QR and copy it
     <br>
@@ -26,6 +26,5 @@
 
  ### ```Deploye in heroku```
    
-    <br>
-<a href='https://hermit.adithyan.xyz/deploy-heroku' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://hermit.adithyan.xyz/deploy-heroku' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY_IN HEROKU-black?style=for-the-badge&logo=heroku&logoColor=yellow'/></a>
 

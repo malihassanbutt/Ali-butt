@@ -26,7 +26,8 @@
 
  ### ```Deploye in heroku```
    
-<a href='https://github.com/malihassanbutt/Ali-butt/deploy-heroku' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY_IN HEROKU-black?style=for-the-badge&logo=heroku&logoColor=yellow'/></a>
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/malihassanbutt/Ali-butt&template=https://github.com/malihassanbutt/Ali-butt.git)
+
 
 #### ```Create account koyeb```
 

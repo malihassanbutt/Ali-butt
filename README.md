@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+ALI-BUTT;MULTI+DEVICE+WHATSAPP+BOT; by🌟ALI BUTT🌟 AND DENZO UCHIWA ;PUBLIC+BOT;GOOD BOT." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+ALI-BUTT-MD;MULTI+DEVICE+WHATSAPP+BOT; by🌟ALI BUTT🌟 AND DENZO UCHIWA ;PUBLIC+BOT;GOOD BOT." alt="Typing SVG" /></a>
   
 <p align="center">  
   <a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6">
@@ -18,7 +18,7 @@
     <br>
 <a href='https://replit.com/@Excelottah/BLACK-Md' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr_IN replit-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=yellow&color=yellow'/></a>
 
-#### Create accounte 
+#### ```Create accounte```
 
 1. If You don't have a account in Heroku. Create a account.
     <br>

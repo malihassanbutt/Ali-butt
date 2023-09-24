@@ -22,7 +22,7 @@
 
 1. If You don't have a account in Heroku. Create a account.
     <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-accounte-heroku?style=for-the-badge&logo=heroku&logoColor=red'/></a>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create_accounte_heroku?style=for-the-badge&logo=heroku&logoColor=red'/></a>
 
  ### ```Deploye in heroku```
    
@@ -32,12 +32,12 @@
 
 1. If You don't have a account in koyeb. Create a account.
     <br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-accounte-koyeb-black?style=for-the-badge&logo=koyeb&logoColor=yellow'/></a>
+<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create_accounte_koyeb-black?style=for-the-badge&logo=koyeb&logoColor=yellow'/></a>
 
  
 ### ``` Deploy in koyeb```
     
-<a href='https://hermit.adithyan.xyz/deploy-koyeb' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-IN_KOYEB-black?style=for-the-badge&logo=koyeb&logoColor=yellow'/></a>
+<a href='https://hermit.adithyan.xyz/deploy-koyeb' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY_IN_KOYEB-black?style=for-the-badge&logo=koyeb&logoColor=yellow'/></a>
 
 
 For help visit [Github wiki](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki)

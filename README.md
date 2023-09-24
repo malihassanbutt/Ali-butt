@@ -1,9 +1,18 @@
-#### HERMIT MD WHATSAPP BOT
-Hermit-md - Simple whatsapp Multi Device whatsapp bot.
+#### ALI-BUTT MD WHATSAPP BOT
 
-***
 
-### SETUP
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+ALI-BUTT;MULTI+DEVICE+WHATSAPP+BOT; CRÉATEUR+🌟ALI BUTT🌟 AND DENZO UCHIWA ;PUBLIC+BOT;GOOD BOT." alt="Typing SVG" /></a>
+  
+<p align="center">  
+  <a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6">
+    <img alt=Support height="300" src="https://i.imgur.com/bfBYRk0.jpeg">
+
+
+
+
+  </div>
+### SCAN QR CODE
 
 1. Scan the QR and copy it
     <br>

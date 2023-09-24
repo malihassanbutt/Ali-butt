@@ -1,15 +1,16 @@
 {
-  "name": "hermit-md",
+  "name": "Ali-butt",
+  "logo": "https://i.imgur.com/aKpPk78.jpeg"
   "version": "4.4.1",
-  "description": "Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
+  "description": "Ali-butt - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start . --attach --name hermit-md"
+    "start": "pm2 start . --attach --name Ali-butt"
   },
-  "author": "A-d-i-t-h-y-a-n",
+  "author": "malihassanbutt",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
+    "@adiwajshing/baileys": "git+https://github.com/malihassanbutt/Baileys.js.git",
     "@adiwajshing/keyed-db": "^0.2.4",
     "acrcloud": "^1.4.0",
     "axios": "^0.24.0",

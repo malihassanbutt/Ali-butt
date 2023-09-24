@@ -6,7 +6,7 @@
   
 <p align="center">  
   <a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6">
-    <img alt=Support height="300" src="https://i.imgur.com/bfBYRk0.jpeg">
+    <img alt=Support height="800" src="https://i.imgur.com/bfBYRk0.jpeg">
 
 
 
@@ -16,7 +16,7 @@
 
 1. Scan the QR and copy it
     <br>
-<a href='https://hermit.adithyan.xyz/qr' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://hermit.adithyan.xyz/qr' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=yellow&color=yellow'/></a>
 
 #### DEPLOY TO HEROKU 
 

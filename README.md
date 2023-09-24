@@ -6,7 +6,7 @@
   
 <p align="center">  
   <a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6">
-    <img alt=Support height="800" src="https://i.imgur.com/bfBYRk0.jpeg">
+    <img alt=Support height="800" src="https://i.imgur.com/aKpPk78.jpeg">
 
 
 

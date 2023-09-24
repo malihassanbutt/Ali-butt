@@ -6,7 +6,7 @@
   
 <p align="center">  
   <a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6">
-    <img alt=Support height="800" src="https://i.imgur.com/aKpPk78.jpeg">
+    <img alt=Support height="700" src="https://i.imgur.com/aKpPk78.jpeg">
 
 
 
@@ -40,10 +40,10 @@
 <a href='https://hermit.adithyan.xyz/deploy-koyeb' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY_IN_KOYEB-black?style=for-the-badge&logo=koyeb&logoColor=yellow'/></a>
 
 
-For help visit [Github wiki](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki)
+For help visit [Github wiki](https://github.com/https://github.com/malihassanbutt/Ali-butt/wiki)
 
 ***
-<a href="https://whatsapp.com/channel/0029Va4OxFAGk1FjrFvTJa1V"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-green?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-green?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ## Support Me
 

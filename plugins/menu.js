@@ -42,26 +42,27 @@ Function({
 		}
 	})
 	let msg = `╭━━━〔 ${BOT_INFO.split(";")[0]} ⁩〕━━━┈⊷
-┃✵╭──────────────
-┃✵│ Owner : ${BOT_INFO.split(";")[1]}
-┃✵│ User : ${m.pushName.replace( /[\r\n]+/gm, "" )}
-┃✵│ Plugins : ${commands.length}
-┃✵│ Runtime : ${runtime(process.uptime())}
-┃✵│ Mode : ${MODE}
-┃✵│ Platform : ${os.platform()}
-┃✵│ Ram : ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}
-┃✵│ Version : ${VERSION}
-┃✵╰──────────────
+┃🌟╭──────────────
+┃🌟│ Owner : ${BOT_INFO.split(";")[1]}
+┃🌟│ User : ${m.pushName.replace( /[\r\n]+/gm, "" )}
+┃🌟│ Plugins : ${commands.length}
+┃🌟│ Runtime : ${runtime(process.uptime())}
+┃🌟│ Mode : ${MODE}
+┃🌟│ Platform : ${os.platform()}
+┃🌟│ Ram : ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}
+┃🌟│Version : ${VERSION}
+┃🌟│BY Denzo uchiwa & ali butt
+┃  ╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
 `
 	for (const command in commandslist) {
 		msg += `╭─────────────┈⊷
 `
-		msg += `│ 「 *${await Fancy(command.toUpperCase(), 32)}* 」 `
+		msg += `│ 🌟「 *${await Fancy(command.toUpperCase(), 32)}* 」 `
 		msg += `╰┬────────────┈⊷\n┌┤\n`
 		for (const plugin of commandslist[command])
 			msg += `││◦➛ ${await Fancy(plugin.toLowerCase(), 32)}\n`
-		msg += `│╰────────────┈⊷
+		msg += `│🌟╰────────────┈⊷
 `
 		msg += `╰─────────────┈⊷
 `

@@ -44,7 +44,7 @@
 For help visit [Github wiki](https://github.com/https://github.com/malihassanbutt/Ali-butt/wiki)
 
 ***
-<a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-green?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Support%20Oficiial-green?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ## Support Me
 

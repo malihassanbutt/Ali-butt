@@ -32,7 +32,7 @@
 
 1. If You don't have a account in koyeb. Create a account.
     <br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create_accounte_koyeb-black?style=for-the-badge&logo=koyeb&logoColor=yellow'/></a>
+<a href='https://app.koyeb.com/auth/signup' target=""><img alt='koyeb' src='https://img.shields.io/badge/-Create_accounte_koyeb-black?style=for-the-badge&logo=koyeb&logoColor=yellow'/></a>
 
  
 ### ``` Deploy in koyeb```

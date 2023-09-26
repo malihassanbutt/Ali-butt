@@ -26,7 +26,7 @@
  ### ```Deploye in heroku```
    
 <br>
-<a href='https://hermit.adithyan.xyz/deploy-heroku' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY_IN_HEROKO-black?style=for-the-badge&logo=heroku&logoColor=yellow'/></a>
+<a href='https://github.com/malihassanbutt/Ali-butt/deploy-heroku' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY_IN_HEROKO-black?style=for-the-badge&logo=heroku&logoColor=yellow'/></a>
 
 #### ```Create account koyeb```
 
